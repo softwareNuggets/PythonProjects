@@ -2,7 +2,7 @@
 ## Date written: 2/24/2025
 ## Python: U.S. State Quiz Game
 ## YouTube : https://youtube.com/c/softwareNuggets
-## GitHub  : https://github.com/softwareNuggets/Python_Shorts/tree/main/CreateImageMapCoordinates
+## GitHub  : https://github.com/softwareNuggets/PythonProjects/tree/main/Learn_the_usa_states
 
 
 import tkinter as tk
